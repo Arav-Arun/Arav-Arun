@@ -6,10 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arav-arun" alt="arav-arun" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Web Development, AI & ML**
-
-- 👨‍💻 All of my projects are available at [portfolio website coming soon](portfolio website coming soon)
-
+-💻 Finished with HTML/CSS. Currently learning JavaScript 
+- 👨‍💻 All of my projects are available at [portfolio website coming soon]
 - 📫 How to reach me **arav.arun.01@gmail.com**
+
+## 🚀 My Tech Stack  
+**Languages:** Python | C++ | HTML | CSS | JavaScript *(learning)*  
+**Domains:** Web Dev | Web3 | DSA | Generative AI (beginner)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1WZmELMYmSpdbps0LCvzyN8To5bcHtPkz07zgMeUOlWQ/edit?usp=sharing](https://docs.google.com/document/d/1WZmELMYmSpdbps0LCvzyN8To5bcHtPkz07zgMeUOlWQ/edit?usp=sharing)
 

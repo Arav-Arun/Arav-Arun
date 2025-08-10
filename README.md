@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arav Arun</h1>
-<h3 align="center">🎓 B.Tech Comp Engg @ KJSSE, Mumbai 🎓 BS Computer Science @BITS Pilani</h3>
+<h3 align="center">
+  🎓 B.Tech Comp Engg @ KJSSE, Mumbai 
+  🎓 BS Computer Science @BITS Pilani</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arav-arun&label=Profile%20views&color=0e75b6&style=flat" alt="arav-arun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arav-arun" alt="arav-arun" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Web Development, AI & ML**
--💻 Finished with HTML/CSS. Currently learning JavaScript 
 - 👨‍💻 All of my projects are available at [portfolio website coming soon]
 - 📫 How to reach me **arav.arun.01@gmail.com**
 

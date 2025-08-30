@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arav-arun" alt="arav-arun" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Web Development, AI & ML**
-- 👨‍💻 All of my projects are available at [portfolio website coming soon]
+- 👨‍💻 All of my projects are available at aravarun.xyz
 - 📫 How to reach me **arav.arun.01@gmail.com**
 
 ## 🚀 My Tech Stack  

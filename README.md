@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arav-arun&label=Profile%20views&color=0e75b6&style=flat" alt="arav-arun" /> </p>
 
-- 🌱 I’m currently learning **DSA, Web Development, AI & ML**
+- 🌱 I’m currently learning **DSA, Web Development*
 - 👨‍💻 All of my projects are available at https://www.aravarun.xyz
 - 📫 How to reach me **arav.arun.01@gmail.com**
 
 ## 🚀 My Tech Stack  
-**Languages:** Python | C++ | HTML | CSS | JavaScript *(learning)*  
-**Domains:** Web Dev | Web3 | DSA | Generative AI (beginner)
+**Languages:**  HTML | CSS | JavaScript *(learning)*  
+**Domains:** Web Dev | DSA(beginner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

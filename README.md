@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arav-arun&label=Profile%20views&color=0e75b6&style=flat" alt="arav-arun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arav-arun" alt="arav-arun" /></a> </p>
+/* <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arav-arun" alt="arav-arun" /></a> </p> */
 
 - 🌱 I’m currently learning **DSA, Web Development, AI & ML**
 - 👨‍💻 All of my projects are available at https://www.aravarun.xyz

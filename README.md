@@ -10,8 +10,8 @@
 - 📫 How to reach me **arav.arun.01@gmail.com**
 
 ## 🚀 My Tech Stack  
-**Languages:**  HTML | CSS | JavaScript *(learning)*  
-**Domains:** Web Dev | DSA(beginner)
+**Languages:**  HTML | CSS | JavaScript | Python | C++ 
+**Domains:** Web Dev | DSA | CP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

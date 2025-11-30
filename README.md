@@ -1,20 +1,61 @@
-<h1 align="center">Hi 👋, I'm Arav Arun</h1>
-<h3 align="center">
-  🎓 B.Tech Comp Engg @ KJSSE, Mumbai 
-  🎓 BS Computer Science @BITS Pilani</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=700&color=1AF7FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Arav+Arun!;Computer+Engineer+from+Mumbai;AI+%26+Web+Dev+Explorer;Always+Building+Something+Cool" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arav-arun&label=Profile%20views&color=0e75b6&style=flat" alt="arav-arun" /> </p>
-
-- 🌱 I’m currently learning **DSA, Web Development**
-- 👨‍💻 All of my projects are available at https://www.aravarun.xyz
-- 📫 How to reach me **arav.arun.01@gmail.com**
-
-## 🚀 My Tech Stack  
-**Languages:**  HTML | CSS | JavaScript | Python | C++ 
-**Domains:** Web Dev | DSA | CP
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arav-arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arav-arun" height="30" width="40" /></a>
+<!-- Education Row -->
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" width="38" />
+  <b>&nbsp;BS Computer Science – BITS Pilani</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpcwsXjou5kpc351lnXP6fd9MW6VlxDEVzSg&s" width="38" />
+  <b>&nbsp;B.Tech Computer Engineering – KJSCE, Mumbai</b>
 </p>
-<p>Most of my github repositories as private, check portfolio website to see projects made</p>
+
+<!-- Socials — no title, clean row -->
+<p align="center" style="margin-top: -10px;">
+  <a href="https://linkedin.com/in/arav-arun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:arav.arun.01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Arav-Arun&label=Profile+Views&color=1adeff&style=flat-square" />
+</p>
+
+---
+
+## 🧭 About Me  
+
+- 🌱 Learning: **DSA, Full-Stack Development, AI Agents**  
+- 🔍 Exploring: **LLM apps, intelligent assistants, autonomous logic flows**  
+- 🌐 Portfolio → **https://www.aravarun.xyz**  
+- ✉️ Email → **arav.arun.01@gmail.com**  
+- ⚡ I like building systems that feel intentional, reactive, and clean.
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,react,nodejs,express,mongodb,git,github,linux,vscode,tailwind" />
+</p>
+
+---
+
+## 📊 Analytics  
+
+<!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arav-Arun&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arav-Arun&layout=compact&theme=tokyonight&hide_border=true" />
+</p> -->
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arav-Arun&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+

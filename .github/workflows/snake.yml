@@ -10,19 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Generate REAL snake animation
-        uses: phosphoer/snk-animated@v1
+      - name: Create real snake animation
+        uses: ouuan/github-snake@main
         with:
           github_user_name: Arav-Arun
-          output_path: dist/real-snake.svg
+          gif_out_path: dist/real-snake.svg
           snake_color: "#00ff6e"
-          snake_head_color: "#1affb5"
-          background_color: "#0d1117" # GitHub dark mode background
-          fps: 12
+          background_color: "#0d1117"
 
-      - name: Publish to output branch
+      - name: Publish animation
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

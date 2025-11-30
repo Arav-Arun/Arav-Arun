@@ -56,6 +56,8 @@
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arav-Arun&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arav-Arun/Arav-Arun/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</p>
 ---
 

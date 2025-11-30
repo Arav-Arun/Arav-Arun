@@ -4,16 +4,16 @@
 </h1>
 
 <!-- Education Row -->
-<p align="center" style="margin-bottom: 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" width="38" />
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" width="38" /> 
   <b>&nbsp;BS Computer Science – BITS Pilani</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpcwsXjou5kpc351lnXP6fd9MW6VlxDEVzSg&s" width="38" />
+  &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpcwsXjou5kpc351lnXP6fd9MW6VlxDEVzSg&s" width="38" /> 
   <b>&nbsp;B.Tech Computer Engineering – KJSCE, Mumbai</b>
 </p>
 
-<!-- Socials — no title, clean row -->
-<p align="center" style="margin-top: -10px;">
+<!-- Socials -->
+<p align="center" style="margin-top: -4px;">
   <a href="https://linkedin.com/in/arav-arun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -23,36 +23,31 @@
   <a href="mailto:arav.arun.01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Arav-Arun&label=Profile+Views&color=1adeff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Arav-Arun&label=Views&color=1adeff&style=for-the-badge" />
 </p>
 
----
-
-## 🧭 About Me  
+## About Me :
 
 - 🌱 Learning: **DSA, Full-Stack Development, AI Agents**  
-- 🔍 Exploring: **LLM apps, intelligent assistants, autonomous logic flows**  
-- 🌐 Portfolio → **https://www.aravarun.xyz**  
-- ✉️ Email → **arav.arun.01@gmail.com**  
-- ⚡ I like building systems that feel intentional, reactive, and clean.
-
----
+- 🤖 Exploring: **LLM apps, intelligent assistants, autonomous reasoning flows**  
+- 🌐 Portfolio: **https://www.aravarun.xyz**  
+- ⚡ I enjoy creating systems that feel reactive and intentional.
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,react,nodejs,express,mongodb,git,github,linux,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
----
-
-## 📊 Analytics  
+## GitHub Analytics :
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arav-Arun&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Arav-Arun&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;
 </p>
 
+## 📊 Contribution graph :  
+<!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arav-Arun/Arav-Arun/output/snake-dark.svg" width="100%" />
 </p>
-

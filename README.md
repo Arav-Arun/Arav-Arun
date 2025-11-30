@@ -48,7 +48,10 @@
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Arav-Arun&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;
+  <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arav-Arun&theme=tokyonight" />
 </p>
+
+
 
 ## Contribution graph :  
 <!-- Snake Animation -->

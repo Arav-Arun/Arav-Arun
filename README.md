@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arav-Arun/Arav-Arun/output/snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Arav-Arun/Arav-Arun/output/real-snake.svg" width="95%" />
 </p>

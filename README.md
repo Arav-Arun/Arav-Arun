@@ -37,7 +37,7 @@
 - 🌐 Portfolio: **https://www.aravarun.xyz**  
 - ⚡ I enjoy creating systems that feel reactive and intentional.
 
-## 🛠️ Tech Stack  
+## Tech Stack :   
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,express,mongodb,git,github,vscode" />
@@ -50,7 +50,7 @@
   &nbsp;&nbsp;
 </p>
 
-## 📊 Contribution graph :  
+## Contribution graph :  
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arav-Arun/Arav-Arun/output/snake-dark.svg" width="100%" />

@@ -48,17 +48,14 @@
 
 ## 📊 Analytics  
 
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arav-Arun&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arav-Arun&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arav-Arun&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arav-Arun/Arav-Arun/output/snake-dark.svg" width="90%" />
 </p>
+
 
 ---
 

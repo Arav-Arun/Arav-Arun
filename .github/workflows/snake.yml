@@ -1,4 +1,4 @@
-name: Generate Snake Contribution Graph
+name: Generate Real Snake Animation
 
 on:
   schedule:
@@ -6,23 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # Use Platane/snk v2 renderer for better visuals
-      - name: Generate cool snake animation
-        uses: Platane/snk@v2
+      - name: Generate REAL snake animation
+        uses: phosphoer/snk-animated@v1
         with:
           github_user_name: Arav-Arun
-          svg_out_path: dist/snake-dark.svg
-          color_snake: "#00ff9d"
-          color_dots: "#1f6feb"
+          output_path: dist/real-snake.svg
+          snake_color: "#00ff6e"
+          snake_head_color: "#1affb5"
+          background_color: "#0d1117" # GitHub dark mode background
+          fps: 12
 
-      - name: Upload animation to output branch
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,7 +1,11 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=700&color=1AF7FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Arav+Arun!;Computer+Engineer+from+Mumbai;AI+%26+Web+Dev+Explorer;Always+Building+Something+Cool" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=700&color=1AF7FF&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Arav+Arun!;Computer+Engineer+from+Mumbai;AI+%26+Web+Dev+Explorer;Always+Building+Something+Cool" 
+    alt="Typing Animation"
+  />
 </h1>
+
 
 <!-- Education Row -->
 <p align="center">

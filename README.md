@@ -46,7 +46,7 @@
 ## GitHub Analytics :
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Arav-Arun&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Arav-Arun&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arav-Arun&theme=tokyonight" />
 </p>

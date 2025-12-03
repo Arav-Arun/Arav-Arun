@@ -17,13 +17,9 @@ jobs:
       - name: Generate neon snake
         uses: Platane/snk@v2
         with:
-          github_user_name: Arav-Arun
-          svg_out_path: dist/snake-dark.svg
-          color_snake: "#00f0ff"        # neon cyan
-          color_snake_head: "#de00ff"   # neon magenta head
-          color_dots: "#1f6feb"         # GitHub blue
-          tile_size: 16                 # thicker blocks
-          animation_duration: 6000       # slower/smoother animation
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=%2300f0ff&color_snake_head=%23de00ff&color_dots=%231f6feb&tile_size=16&animation_duration=6000
 
       - name: Upload to output branch
         uses: peaceiris/actions-gh-pages@v3

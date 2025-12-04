@@ -11,19 +11,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # Best-looking snake: Platane/snk v2 (superior visuals)
-      - name: Generate neon snake
-        uses: Platane/snk@v2
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?color_snake=%2300f0ff&color_snake_head=%23de00ff&color_dots=%231f6feb&tile_size=16&animation_duration=6000
+            dist/snake-dark.svg
 
-      - name: Upload to output branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: dist
+          publish_branch: output

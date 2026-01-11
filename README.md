@@ -52,8 +52,8 @@
 </p>
 
 ## Badges :
-
 ![Badge Canvas](https://aswoc.csi-kjsce.org/canvas/105049707913770863251/image.png)
+
 ## Contribution graph :  
 <!-- Snake Animation -->
 <p align="center">

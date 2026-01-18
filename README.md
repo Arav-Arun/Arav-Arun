@@ -30,8 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=Arav-Arun&label=Views&color=1adeff&style=for-the-badge" />
 </p>
 
-- 🌐 Portfolio: **https://www.aravarun.xyz**  
-
 ## Tech Stack :   
 
 <p align="center">

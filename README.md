@@ -30,12 +30,7 @@
   <img src="https://komarev.com/ghpvc/?username=Arav-Arun&label=Views&color=1adeff&style=for-the-badge" />
 </p>
 
-## About Me :
-
-- 🌱 Learning: **DSA, Full-Stack Development, AI Agents**  
-- 🤖 Exploring: **LLM apps, intelligent assistants, autonomous reasoning flows**  
 - 🌐 Portfolio: **https://www.aravarun.xyz**  
-- ⚡ I enjoy creating systems that feel reactive and intentional.
 
 ## Tech Stack :   
 

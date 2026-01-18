@@ -9,11 +9,11 @@
 
 <!-- Education Row -->
 <p align="center">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpcwsXjou5kpc351lnXP6fd9MW6VlxDEVzSg&s" width="38" /> 
+  <b>&nbsp;B.Tech Computer Engineering – KJSCE, Mumbai</b>
+  &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" width="38" /> 
   <b>&nbsp;BS Computer Science – BITS Pilani</b>
-  &nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpcwsXjou5kpc351lnXP6fd9MW6VlxDEVzSg&s" width="38" /> 
-  <b>&nbsp;B.Tech Computer Engineering – KJSCE, Mumbai</b>
 </p>
 
 <!-- Socials -->

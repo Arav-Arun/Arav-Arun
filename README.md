@@ -36,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
+<!--
 ## GitHub Analytics :
 
 <p align="center">
@@ -43,6 +44,7 @@
   &nbsp;&nbsp;
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arav-Arun&theme=tokyonight" />
 </p>
+-->
 
 ## Contribution graph :  
 <!-- Snake Animation -->

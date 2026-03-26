@@ -45,9 +45,3 @@
   <img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arav-Arun&theme=tokyonight" />
 </p>
 -->
-
-## Contribution graph :  
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arav-Arun/Arav-Arun/output/snake-dark.svg" width="100%" />
-</p>

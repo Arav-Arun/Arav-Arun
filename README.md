@@ -21,19 +21,21 @@
 </p>
 
 
-## About Me
-- Full-stack developer working with MERN Stack and Next.js  
-- Currently learning Java, Deep Learning, and Machine Learning  
+## 👤 About Me
+- **Full-stack developer** working with **MERN Stack** and **Next.js**  
+- Currently learning **Java, Deep Learning, and Machine Learning**  
 - Tech & Research Representative at Somaiya Machine Learning Research Association  
-- Winner – GDG TechSprint 2026  
-- Active in hackathons and coding contests  
+- **Winner – GDG TechSprint 2026**  
+- **Open to opportunities** where I can learn, build, and contribute to real-world projects  
+- Actively participating in hackathons and coding contests 
 
 
-## Education
+
+## 🎓 Education
 - **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.93)  
 - **B.S. Computer Science** – BITS Pilani (CGPA: 9.44)  
 
-## Featured Projects
+## 💡 Featured Projects
 - **Spenzo** – AI-powered omni-chain financial platform ([Live](https://www.spenzo.xyz))  
   Natural language expense tracking, GPT-4o receipt OCR, real-time Web3 analytics across Ethereum and Solana  
 
@@ -44,7 +46,7 @@
   Built using Vanilla JavaScript  
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=black)

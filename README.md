@@ -42,8 +42,8 @@
 - **CampusFind** (GDG TechSprint Winner) – AI-driven lost-and-found platform ([Live](https://campusfindapp.vercel.app))  
   Vision-based tagging, secure OTP handovers, scalable serverless architecture  
 
-- **CGPA Calculator** – Web app for CGPA/SGPA calculations ([Live](https://kjsce-cgpa-calculator.vercel.app))  
-  Built using Vanilla JavaScript  
+- **VeraFund** – VeraFund is a milestone based donation escrow platform built on Sepolia ([Live](https://www.verafund.xyz))  
+  Solidity escrow contracts, GPT-4o evidence verification, donor weighted on-chain governance 
 
 
 ## 🛠 Tech Stack

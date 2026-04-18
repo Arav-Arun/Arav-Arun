@@ -23,7 +23,7 @@
 
 ## 👤 About Me
 - **Full-stack developer** working with **MERN Stack** and **Next.js**  
-- Currently learning **Java, Deep Learning, and Machine Learning**  
+- Currently learning **Web3, Deep Learning, and Machine Learning**  
 - Tech & Research Representative at Somaiya Machine Learning Research Association  
 - **Winner – GDG TechSprint 2026**  
 - **Open to opportunities** where I can learn, build, and contribute to real-world projects  

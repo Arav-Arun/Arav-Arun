@@ -36,15 +36,14 @@
 - **B.S. Computer Science** – BITS Pilani (CGPA: 9.44)  
 
 ## 💡 Featured Projects
+- **ChainCred** – Issue, manage, and verify 100% decentralized digital certificates on Ethereum. ([Live](https://chaincredapp.vercel.app))  
+  React, Solidity, Ethers.js, Sepolia Testnet
+  
 - **Spenzo** – AI-powered omni-chain financial platform ([Live](https://www.spenzo.xyz))  
   Natural language expense tracking, GPT-4o receipt OCR, real-time Web3 analytics across Ethereum and Solana  
 
 - **CampusFind** (GDG TechSprint Winner) – AI-driven lost-and-found platform ([Live](https://campusfindapp.vercel.app))  
   Vision-based tagging, secure OTP handovers, scalable serverless architecture  
-
-- **VeraFund** – VeraFund is a milestone based donation escrow platform built on Sepolia ([Live](https://www.verafund.xyz))  
-  Solidity escrow contracts, GPT-4o evidence verification, donor weighted on-chain governance 
-
 
 ## 🛠 Tech Stack
 

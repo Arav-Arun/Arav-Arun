@@ -38,10 +38,10 @@
 ## 💡 Featured Projects
 - **ChainCred** – Issue, manage, and verify 100% decentralized digital certificates on Ethereum. ([Live](https://chaincredapp.vercel.app))  
   React, Solidity, Ethers.js, Sepolia Testnet
-  
 - **Spenzo** – AI-powered omni-chain financial platform ([Live](https://www.spenzo.xyz))  
   Natural language expense tracking, GPT-4o receipt OCR, real-time Web3 analytics across Ethereum and Solana  
-
+- **ClipGrab** - Instant video clipper for X, Instagram, Reddit, and Twitch built with Flask. ([Live](https://clip-grab.vercel.app))  
+  Companion Chrome extension for one-click tab detection, yt-dlp stream extraction, FFmpeg-based lossless segment slicing
 - **CampusFind** (GDG TechSprint Winner) – AI-driven lost-and-found platform ([Live](https://campusfindapp.vercel.app))  
   Vision-based tagging, secure OTP handovers, scalable serverless architecture  
 

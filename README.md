@@ -29,8 +29,6 @@
 - **Open to opportunities** where I can learn, build, and contribute to real-world projects  
 - Actively participating in hackathons and coding contests 
 
-
-
 ## 🎓 Education
 - **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.93)  
 - **B.S. Computer Science** – BITS Pilani (CGPA: 9.44)  
@@ -46,8 +44,6 @@
   Vision-based tagging, secure OTP handovers, scalable serverless architecture  
 
 ## 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&color=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&color=black)

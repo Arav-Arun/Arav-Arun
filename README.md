@@ -2,7 +2,7 @@
 <h3 align="center">1x Hackathon Winner | Full-Stack & AI Engineer | Avid Learner</h3>
 
 <p align="center">
-  <a href="https://aravarun.xyz/" target="_blank">
+  <a href="https://aravarun.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/Arav-Arun/" target="_blank">

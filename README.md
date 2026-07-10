@@ -62,8 +62,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&color=black)
 ![MCP](https://img.shields.io/badge/MCP-CC785C?style=for-the-badge&logo=anthropic&logoColor=white&color=black)
 
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arav-Arun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arav-Arun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Arav-Arun&theme=tokyonight&hide_border=true&background=0D1117&ring=7FC8FF&fire=7FC8FF&currStreakNum=7FC8FF&sideNums=7FC8FF&currStreakLabel=7FC8FF&sideLabels=7FC8FF&dates=9ECFFF&stroke=0000" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arav-Arun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7FC8FF&text_color=c9d1d9" />
 </p>

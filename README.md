@@ -28,7 +28,6 @@
 - SDE intern @Hyperface (June'26 - July'26)
 - Tech & Research Representative at Somaiya Machine Learning Research Association (Oct'25-Jun'26)
 - **Winner – GDG TechSprint 2026**  
-- **Open to opportunities** where I can learn, build, and contribute to real-world projects  
 
 ## 🎓 Education
 - **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.93)  

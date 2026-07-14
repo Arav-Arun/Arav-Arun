@@ -24,6 +24,7 @@
 ## 👤 About Me
 - **Full-stack developer** working with **MERN Stack**
 - Currently learning **Web3, Deep Learning, and Machine Learning**
+- Tech Team Member @Codecell KJSSE
 - SDE intern @Hyperface (June'26 - July'26)
 - Tech & Research Representative at Somaiya Machine Learning Research Association (Oct'25-Jun'26)
 - **Winner – GDG TechSprint 2026**  

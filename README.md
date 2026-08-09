@@ -1,5 +1,5 @@
 <h1 align="center">Arav Arun</h1>
-<h3 align="center">1x Hackathon Winner | Full-Stack & AI Engineer | Avid Learner</h3>
+<h3 align="center">2x Hackathon Winner | Full-Stack & AI Engineer | Avid Learner</h3>
 
 <p align="center">
   <a href="https://aravarun.in/" target="_blank">

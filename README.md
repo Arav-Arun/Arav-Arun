@@ -24,14 +24,15 @@
 ## 👤 About Me
 - **Full-stack developer** working with **MERN Stack**
 - Currently learning **Web3, Deep Learning, and Machine Learning**
+- **Winner – GDG TechSprint 2026**
+- **Runner-up - Build with Replit: Mumbai Edition**
 - Tech Team Member @ KJSSE Codecell
 - FinTech Team Member @ FTC KJSSE
 - SDE intern @Hyperface (June'26 - July'26)
 - Tech & Research Representative at Somaiya Machine Learning Research Association (Oct'25-Jun'26)
-- **Winner – GDG TechSprint 2026**  
 
 ## 🎓 Education
-- **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.93)  
+- **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.86)  
 - **B.S. Computer Science** – BITS Pilani (CGPA: 9.44)  
 
 ## 💡 Featured Projects

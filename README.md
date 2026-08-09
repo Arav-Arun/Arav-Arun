@@ -24,7 +24,7 @@
 ## 👤 About Me
 - **Full-stack developer** working with **MERN Stack**
 - Currently learning **Web3, Deep Learning, and Machine Learning**
-- **Winner – GDG TechSprint 2026**
+- **Winner - GDG TechSprint 2026**
 - **Runner-up - Build with Replit: Mumbai Edition**
 - Tech Team Member @ KJSSE Codecell
 - FinTech Team Member @ FTC KJSSE

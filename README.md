@@ -14,9 +14,10 @@
   <a href="mailto:hi@aravarun.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/aravarun" target="_blank">
+  <!-- <a href="https://www.kaggle.com/aravarun" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
+  -->
   <img src="https://komarev.com/ghpvc/?username=Arav-Arun&label=Views&color=1adeff&style=for-the-badge" />
 </p>
 

@@ -32,7 +32,7 @@
 - Tech & Research Representative at Somaiya Machine Learning Research Association (Oct'25-Jun'26)
 
 ## 🎓 Education
-- **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.86)  
+- **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.93)  
 - **B.S. Computer Science** – BITS Pilani (CGPA: 9.44)  
 
 ## 💡 Featured Projects

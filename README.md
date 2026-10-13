@@ -18,9 +18,10 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   -->
+  <!--
   <img src="https://komarev.com/ghpvc/?username=Arav-Arun&label=Views&color=1adeff&style=for-the-badge" />
 </p>
-
+-->
 
 ## 👤 About Me
 - **Winner - GDG TechSprint 2026**

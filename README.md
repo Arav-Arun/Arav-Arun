@@ -23,7 +23,7 @@
 </p>
 -->
 
-## 👤 About Me
+## About Me
 - **Winner - GDG TechSprint 2026**
 - **Winner - Gemini Hackday 2026**
 - **Runner-up - Build with Replit: Mumbai Edition**
@@ -32,21 +32,11 @@
 - SDE intern @Hyperface (June'26 - July'26)
 - Tech & Research Representative at Somaiya Machine Learning Research Association (Oct'25-Jun'26)
 
-## 🎓 Education
+## Education
 - **B.Tech Computer Engineering** – KJSCE, Mumbai (CGPA: 8.93)  
 - **B.S. Computer Science** – BITS Pilani (CGPA: 9.44)  
 
-## 💡 Featured Projects
-- **ChainCred** - Issue, manage, and verify 100% decentralized digital certificates on Ethereum. ([Live](https://chaincredapp.vercel.app))  
-  React, Solidity, Ethers.js, Sepolia Testnet
-- **Spenzo** - AI-powered omni-chain financial platform ([Live](https://www.spenzo.xyz))  
-  Natural language expense tracking, GPT-4o receipt OCR, real-time Web3 analytics across Ethereum and Solana  
-- **ClipGrab** - Instant video clipper for X, Instagram, Reddit, and Twitch built with Flask. ([Live](https://clip-grab.vercel.app))  
-  Companion Chrome extension for one-click tab detection, yt-dlp stream extraction, FFmpeg-based lossless segment slicing
-- **CampusFind** (GDG TechSprint Winner) - AI-driven lost-and-found platform ([Live](https://campusfindapp.vercel.app))  
-  Vision-based tagging, secure OTP handovers, scalable serverless architecture  
-
-## 🛠 Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&color=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&color=black)
